@@ -1,0 +1,6 @@
+account_id="<harness_account_id>"
+platform_api_key="<service_account_token>"
+org_id="<org_identifier>"
+project_id="<project_identifier>"
+connector_id="<ccm_aws_connector_identifier>"
+connector_name="<ccm_aws_connector_name>"
